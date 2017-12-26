@@ -1,0 +1,11 @@
+c:\code\Core2Walkthrough_Basic\Core2Walkthrough_Basic\bin\Debug\netcoreapp2.0\Core2Walkthrough_Basic.deps.json
+c:\code\Core2Walkthrough_Basic\Core2Walkthrough_Basic\bin\Debug\netcoreapp2.0\Core2Walkthrough_Basic.runtimeconfig.json
+c:\code\Core2Walkthrough_Basic\Core2Walkthrough_Basic\bin\Debug\netcoreapp2.0\Core2Walkthrough_Basic.runtimeconfig.dev.json
+c:\code\Core2Walkthrough_Basic\Core2Walkthrough_Basic\bin\Debug\netcoreapp2.0\Core2Walkthrough_Basic.dll
+c:\code\Core2Walkthrough_Basic\Core2Walkthrough_Basic\bin\Debug\netcoreapp2.0\Core2Walkthrough_Basic.pdb
+c:\code\Core2Walkthrough_Basic\Core2Walkthrough_Basic\obj\Debug\netcoreapp2.0\Core2Walkthrough_Basic.csprojResolveAssemblyReference.cache
+c:\code\Core2Walkthrough_Basic\Core2Walkthrough_Basic\obj\Debug\netcoreapp2.0\Core2Walkthrough_Basic.csproj.CoreCompileInputs.cache
+c:\code\Core2Walkthrough_Basic\Core2Walkthrough_Basic\obj\Debug\netcoreapp2.0\Core2Walkthrough_Basic.AssemblyInfoInputs.cache
+c:\code\Core2Walkthrough_Basic\Core2Walkthrough_Basic\obj\Debug\netcoreapp2.0\Core2Walkthrough_Basic.AssemblyInfo.cs
+c:\code\Core2Walkthrough_Basic\Core2Walkthrough_Basic\obj\Debug\netcoreapp2.0\Core2Walkthrough_Basic.dll
+c:\code\Core2Walkthrough_Basic\Core2Walkthrough_Basic\obj\Debug\netcoreapp2.0\Core2Walkthrough_Basic.pdb
